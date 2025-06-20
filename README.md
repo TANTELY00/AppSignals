@@ -99,4 +99,9 @@ npm start
 
 Aller sur : http://localhost:5000/
 
+Commande docker pour télécharger l'image de mongo DB
 docker run -d --name mongo-appsignals -p 27017:27017 mongo:6.0
+
+commande pour lanché postman  
+postman-agent
+
